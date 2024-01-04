@@ -30,10 +30,10 @@ To launch the project, navigate cd "c:\Pranay\Bharat Intern\SpamFilter-main\Serv
 # Note
 Make sure to install all necessary libraries.
 You can install the required packages by running the following command:
-
+```
 pip install pandas numpy scikit-learn nltk matplotlib
 
 pip install streamlit
 
-
+```
 
