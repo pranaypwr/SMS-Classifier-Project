@@ -20,6 +20,7 @@ The project used Dataset from Kaggle - https://www.kaggle.com/datasets/uciml/sms
 
 ## Website Interface
 The website has a simple and intuitive interface that allows users to type texts and classify them. The user can type the SMS he recivies in a textbox in the webpage, the application shows the predicted result on wether the text is spam or not.
+![](Sms.png)
 
 
 
